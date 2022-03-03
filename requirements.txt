@@ -1,0 +1,4 @@
+numpy
+tensorflow
+tensorflow-datasets
+tensorflow-model-optimization
